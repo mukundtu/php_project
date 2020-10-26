@@ -34,6 +34,10 @@ include("subjreg.php");
                     <th>Subject 6</th>
                      <th>Subject 7</th>
                       <th>Subject 8</th>
+                      <th>Subject 9</th>
+                     <th>Subject 10</th>
+                      <th>Subject 11</th>
+
 
                 </tr>
             
